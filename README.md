@@ -1,3 +1,4 @@
+![CornerLink architecture](cornerlink.png)
 # CornerLink
 
 A boxing coaching app built with Python sockets. Boxers connect to a coach's server, log in, and log their training. This was my final project for CYSE 250 at Old Dominion University.
@@ -9,6 +10,9 @@ A boxing coaching app built with Python sockets. Boxers connect to a coach's ser
 - Get a plan for the next session
 - Handles many boxers at once using threads
 - Passwords are encrypted with my own Jab-Cross Cipher before they are saved
+
+## Demo
+![CornerLink demo](demo.png)
 
 ## Files
 - server.py: runs the server
